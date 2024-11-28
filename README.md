@@ -128,6 +128,12 @@
 
 `Прикрепите в файл README.md скриншот правила обнаружения, а также скриншот страницы Discover, где видны оба хоста.*`
 
+![alt text](https://github.com/masterchoo495/zbx-hw-p2/blob/main/img008-1.png)
+
+![alt text](https://github.com/masterchoo495/zbx-hw-p2/blob/main/img008-2.png)
+
+![alt text](https://github.com/masterchoo495/zbx-hw-p2/blob/main/img008-3.png)
+
 ---
 
 ### Задание 9* со звёздочкой
