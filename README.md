@@ -15,7 +15,7 @@
 
 `Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»`
 
-### Решение
+![alt text](https://github.com/masterchoo495/zabbix-hw/blob/main/img001.png)
 
 ---
 
@@ -36,7 +36,7 @@
 
 `Результат данного задания сдавайте вместе с заданием 3`
 
-### Решение
+![alt text](https://github.com/masterchoo495/zabbix-hw/blob/main/img002.png)
 
 ---
 
@@ -55,7 +55,7 @@
 
 `Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения`
 
-### Решение
+![alt text](https://github.com/masterchoo495/zabbix-hw/blob/main/img003.png)
 
 ---
 
@@ -73,7 +73,7 @@
 
 `Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»`
 
-### Решение
+![alt text](https://github.com/masterchoo495/zabbix-hw/blob/main/img004.png)
 
 ---
 
@@ -91,7 +91,7 @@
 
 `Прикрепите в файл README.md скриншот карты, где видно, что триггер сработал, с названием «Задание 5»`
 
-### Решение
+![alt text](https://github.com/masterchoo495/zabbix-hw/blob/main/img005.png)
 
 ---
 
